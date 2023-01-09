@@ -4,3 +4,5 @@
 [University of Genoa (UniGe)](https://unige.it/en)<br>
 **Supervisor:** [Prof. Gianni Viardo Vercelli](https://rubrica.unige.it/personale/VUZCWVtr)
 
+RealityCapture is the state-of-the-art photogrammetry software solution that is changing the industry. It is currently the fastest solution on the market, which brings effectivity to your work and allows you to focus on your targets.
+
