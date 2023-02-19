@@ -17,4 +17,5 @@ RealityCapture is the state-of-the-art photogrammetry software solution that is 
 7. David Novotny Georgia Gkioxari, Shubham Tulsiani. Pushing state-of-the-art in 3D content understanding — ai.facebook.com. https://ai.facebook.com/blog/ pushing-state-of-the-art-in-3d-content-understanding/, February 18, 2019.
 8. https://github.com/luigifreda/ROSIntegration
 9. file:///Users/ankurkohli007/Downloads/6.2020-1343.pdf
+10. https://par.nsf.gov/servlets/purl/10297241
 
