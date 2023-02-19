@@ -15,4 +15,5 @@ RealityCapture is the state-of-the-art photogrammetry software solution that is 
 5. Unreal Engine | The most powerful real-time 3D creation tool — unrealengine.com. https://www.unrealengine.com/en-US.
 6. Ph.D. Florent Poux. The Ultimate Guide to 3D Reconstruction with Pho- togrammetry — towardsdatascience.com. https://towardsdatascience.com/ the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4. [Accessed 08- Jan-2023].
 7. David Novotny Georgia Gkioxari, Shubham Tulsiani. Pushing state-of-the-art in 3D content understanding — ai.facebook.com. https://ai.facebook.com/blog/ pushing-state-of-the-art-in-3d-content-understanding/, February 18, 2019.
+8. https://github.com/luigifreda/ROSIntegration
 
