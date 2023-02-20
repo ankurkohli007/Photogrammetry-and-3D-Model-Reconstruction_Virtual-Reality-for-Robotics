@@ -19,4 +19,6 @@ RealityCapture is the state-of-the-art photogrammetry software solution that is 
 9. file:///Users/ankurkohli007/Downloads/6.2020-1343.pdf
 10. https://par.nsf.gov/servlets/purl/10297241
 11. https://www.youtube.com/watch?v=zDUaazmSukM
+12. https://www.youtube.com/watch?v=fuB4OWxOhME
+13. https://www.youtube.com/watch?v=pcI08fHL9Nw
 
