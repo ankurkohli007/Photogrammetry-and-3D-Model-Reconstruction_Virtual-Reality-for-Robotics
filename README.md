@@ -21,4 +21,5 @@ RealityCapture is the state-of-the-art photogrammetry software solution that is 
 11. https://www.youtube.com/watch?v=zDUaazmSukM
 12. https://www.youtube.com/watch?v=fuB4OWxOhME
 13. https://www.youtube.com/watch?v=pcI08fHL9Nw
+14. https://dev.epicgames.com/community/learning/courses/x6D/capturing-reality-drone-mapping-guide/3Y1J/capturing-reality-drone-mapping-guide-introduction
 
