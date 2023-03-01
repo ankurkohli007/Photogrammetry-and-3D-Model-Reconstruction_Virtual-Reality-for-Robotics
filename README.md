@@ -26,3 +26,5 @@ RealityCapture is the state-of-the-art photogrammetry software solution that is 
 16. https://www.unrealengine.com/marketplace/en-US/product/3d-map-navigation-in-vr-course
 17. https://embeddedcomputing.com/application/industrial/automation-robotics/drone-photogrammetry-how-can-you-turn-drone-images-into-3d-mapsmodels
 18. https://forums.unrealengine.com/t/how-to-make-a-3d-map-menu/501819
+19. https://www.youtube.com/watch?v=9lGupuc90oM
+20. https://www.youtube.com/watch?v=dmxrN7uUUhs
