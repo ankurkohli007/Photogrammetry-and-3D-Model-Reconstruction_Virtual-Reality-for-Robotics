@@ -29,3 +29,4 @@ RealityCapture is the state-of-the-art photogrammetry software solution that is 
 19. https://www.youtube.com/watch?v=9lGupuc90oM
 20. https://www.youtube.com/watch?v=dmxrN7uUUhs
 21. https://github.com/Unity-Technologies/Robotics-Nav2-SLAM-Example
+22. https://resources.unity.com/automotive-transportation-manufacturing-content/unity-robotics-slam
