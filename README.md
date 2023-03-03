@@ -32,3 +32,4 @@ RealityCapture is the state-of-the-art photogrammetry software solution that is 
 22. https://resources.unity.com/automotive-transportation-manufacturing-content/unity-robotics-slam
 23. https://www.luigifreda.com/2019/09/22/rosintegration-for-ue-4-23/
 24. https://www.youtube.com/watch?v=n6RjVbh3Vgc
+25. https://www.kaggle.com/datasets/birdy654/environment-recognition-simulation-to-reality
