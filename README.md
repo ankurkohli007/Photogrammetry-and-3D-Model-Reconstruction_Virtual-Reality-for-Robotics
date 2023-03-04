@@ -6,6 +6,15 @@
 
 RealityCapture is the state-of-the-art photogrammetry software solution that is changing the industry. It is currently the fastest solution on the market, which brings effectivity to your work and allows you to focus on your targets.
 
+
+Photogrammetry is a technique of using photographs to generate 3D models or maps of objects and landscapes. This technique involves capturing multiple images of an object or a scene from different angles and using software to combine them into a 3D model. The resulting 3D model can be used for a variety of applications, including virtual reality, robotics, and more.
+
+One of the most exciting applications of photogrammetry is in virtual reality for robotics. By using photogrammetry to create 3D models of real-world objects and environments, it is possible to create immersive virtual reality simulations that can be used to train and test robots. This technology can be used to train robots to perform tasks in a safe and controlled environment, without the risk of damaging real-world equipment or injuring people.
+
+Additionally, photogrammetry can be used to create 3D models of existing equipment or environments, which can be used to design and test new robotics systems. For example, if a company is designing a new robot to operate in a factory environment, they can use photogrammetry to create a 3D model of the factory, which can be used to simulate the robot's movements and test its effectiveness before it is actually built and deployed.
+
+Overall, photogrammetry and 3D model reconstruction have a lot of potential for virtual reality and robotics applications. As the technology continues to improve, we can expect to see more and more innovative uses for these techniques in the field of robotics.
+
 ### Reference Links ###
 
 1. Learn about https://www.capturingreality.com/realitycapture with tutorials in https://dev.epicgames.com/community/learning?application=capturing_reality  and News
