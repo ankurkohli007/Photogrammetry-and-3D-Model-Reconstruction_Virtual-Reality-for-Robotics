@@ -43,3 +43,7 @@ Overall, photogrammetry and 3D model reconstruction have a lot of potential for 
 24. https://www.youtube.com/watch?v=n6RjVbh3Vgc
 25. https://www.kaggle.com/datasets/birdy654/environment-recognition-simulation-to-reality
 26. https://github.com/jordan-bird/Unity-Image-Dataset-Collector
+27. https://www.youtube.com/watch?v=CJG0U1VLp-s
+28. https://www.youtube.com/watch?v=y-77QBAy73E
+29. https://www.youtube.com/watch?v=XxQsIYUFGrQ
+30. https://educatorsinvr.com/2020/12/09/photogrammetry-examples-and-resources/
