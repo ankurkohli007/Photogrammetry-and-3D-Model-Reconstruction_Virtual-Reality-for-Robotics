@@ -48,3 +48,4 @@ Overall, photogrammetry and 3D model reconstruction have a lot of potential for 
 29. https://www.youtube.com/watch?v=XxQsIYUFGrQ
 30. https://educatorsinvr.com/2020/12/09/photogrammetry-examples-and-resources/
 31. https://educatorsinvr.com/2020/12/09/photogrammetry-examples-and-resources/
+32. https://www.researchgate.net/publication/327227913_PHOTOGRAMMETRIC_3D_MODELING_FOR_VIRTUAL_REALITY#fullTextFileContent
