@@ -148,6 +148,8 @@ Overall, Reality Capture is a powerful and versatile tool for photogrammetry and
 
 Unreal Engine continues to evolve and introduce new features with regular updates, empowering developers to create cutting-edge and immersive experiences across multiple industries.
 
+For this project we used **Unreal Engine version 4.25.4**. 
+
 ## Description 
 
 The project of Photogrammetry and 3D Model Reconstruction in terms of Virtual Reality for Robotics aims to leverage the power of photogrammetry and 3D model reconstruction techniques in the context of virtual reality (VR) to enhance robotics applications. The project involves capturing images of the real-world environment using cameras or other imaging devices and using photogrammetry algorithms to reconstruct a detailed and accurate 3D model of the scene.
@@ -174,7 +176,17 @@ Through this project, the potential of photogrammetry and 3D model reconstructio
  
 The above parameters remain the same throughout the acquisition process.
 
+The acquisition strategy in itself is straightforward. We place the camera on the tripod and adjust the height and the angle so that the object completely fits in the field of view. In this case, as the object is relatively low, we can give a downward angle to the camera so that we can also shoot the top part. We use autofocus to ensure the photos won’t be blurry, then swap to manual mode.
 
+We then move the tripod along a circular trajectory all around the object. We need to remain at a constant distance from the object so that the focus stays right. We check the photos as we go. Once we have achieved the first circle around the object, we diminish the tripod’s legs and lower the downward angle of the camera. We adjust the focus and then swap to manual mode again. We take a few more photos all around the subject.
+
+Finally, we remove the camera from the tripod and take a vertical photo of the complete object. To do this, we adjust the focus again. Then, we take detailed photos to ensure that the texture will be fine on all parts of the object. The idea is basically to take enough photos to allow a complete and detailed reconstruction while keeping in mind that an unnecessarily large number of inputs will only slow down and complicate the process. ideally, for such an object, you have 25 pictures (8 horizontal positions multiplied by three layers of heights, plus one on top).
+
+**Step2:** **Photogrammetry Processing:**
+
+The photos are first sorted to eliminate images of bad quality (blurry, out of frame, wrong exposition) that would only disturb the next steps. Approx. 1000 pictures we captured. 
+
+Now that all the testbench is clear, let us dive into the 3D photogrammetry processing details through a workflow with Reality Capture and Meshroom.
 
 ## Reference Links ###
 
