@@ -233,7 +233,7 @@ Lastly, a visual check of the point cloud is done. If everything is fine, we can
 The **reconstruction** is started by clicking on the “Normal detail reconstruction” icon in the “Reconstruction” tab. This step takes only five minutes, resulting in a mesh of around 1 million triangular facets. It is a lot compared to the number of countries on earth (195 in 2023), but very tiny compared to what we usually work with. With the “Advanced” **selection** tool, we select the marginal and large triangles, then filter the selection. We also adjusted the reconstruction box to eliminate the parts that belong to the furniture on which the object was placed (“Box” selection tool).
 
 <p align="center">
-  <img width="1200" height="300" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/7b008fe97f0b73b5ad5a0d49d6fc181c6d667877/Reconstruction%20button%20(Left)%2C%20Filter%20Selection%20tool%20(Middle)%20and%20the%20possible%20filtering%20options%20(right).png">
+  <img width="1200" height="200" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/7b008fe97f0b73b5ad5a0d49d6fc181c6d667877/Reconstruction%20button%20(Left)%2C%20Filter%20Selection%20tool%20(Middle)%20and%20the%20possible%20filtering%20options%20(right).png">
 </p>
 
 <p align="center">
