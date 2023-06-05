@@ -204,15 +204,28 @@ The first step is to create a new project and import our approx 1000 images. Thi
     <em>Data Import</em>
 </p>
 
-Then, we start the alignment with the first icon in the “Alignment” tab. For this project, we keep the default parameters.
+Then, we start the **alignment** with the first icon in the “Alignment” tab. For this project, we keep the default parameters.
 
 <p align="center">
   <img width="400" height="300" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/56930cff780eae090fa80e19542e0d6cc476f87d/Alignment.png">
 </p>
 
 <p align="center">
-    <em>Data Import</em>
+    <em>Alignment</em>
 </p>
+
+Given the low number of inputs, the alignment is done in only 30 seconds. After this step, we have a **component** that consists of a point cloud and the estimated positions of the cameras. 
+
+We can check that all inputs are aligned and see that the positions of 48 cameras out of 48 are estimated. We also check the **alignment report**. This report provides the alignment duration, the number of aligned inputs, the point count, and the mean and maximal reprojection error in pixels. It is also possible to retrieve the alignment settings that were used.
+
+<p align="center">
+  <img width="400" height="300" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/e0e6708b13f18ac00ba846f569960e05f38340b9/Alignment%20report.png">
+</p>
+
+<p align="center">
+    <em>Alignment Veport</em>
+</p>
+
 
 ## Reference Links ###
 
