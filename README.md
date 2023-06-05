@@ -259,11 +259,11 @@ In Unreal Engine, we created drone and navigate the drone in the same platform. 
 Creating a drone in Unreal Engine using Blueprints involves several steps. Here's a detailed breakdown of the process:
 
 * **Set up the Project:**
-<ul>
-<li>Launch Unreal Engine and create a new Blueprint project.</li>
-<li>Choose a project template or start with a blank project.</li>
-<li>Specify the project settings, including project name and directory.</li>
-</ul>
+  <ul>
+  <li>Launch Unreal Engine and create a new Blueprint project.</li>
+  <li>Choose a project template or start with a blank project.</li>
+  <li>Specify the project settings, including project name and directory.</li>
+  </ul>
   
 Import Drone Assets:
 
