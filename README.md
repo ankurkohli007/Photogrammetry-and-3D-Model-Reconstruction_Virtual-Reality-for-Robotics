@@ -4,7 +4,11 @@
 [University of Genoa (UniGe), Italy](https://unige.it/en)<br>
 **Supervisor:** [Prof. Gianni Viardo Vercelli](https://rubrica.unige.it/personale/VUZCWVtr)
 
-RealityCapture is the state-of-the-art photogrammetry software solution that is changing the industry. It is currently the fastest solution on the market, which brings effectivity to your work and allows you to focus on your targets.
+# Photogrammetry and 3D Model Reconstruction
+
+## Abstract
+
+This project provides a concise overview of photogrammetry and 3D model reconstruction. Photogrammetry is a technique that uses photographs to extract 3D geometric information, while 3D model reconstruction involves converting raw data into a digital representation. These technologies have diverse applications in fields such as architecture, archaeology, virtual reality, robotics, and manufacturing. Challenges include complex scenes, lighting variations, and algorithm scalability. Integration with other technologies offers further opportunities. Photogrammetry and 3D model reconstruction have the potential to revolutionize industries and enable new possibilities in various fields. RealityCapture is the state-of-the-art photogrammetry software solution that is changing the industry. It is currently the fastest solution on the market, which brings effectivity to your work and allows you to focus on your targets.
 
 
 Photogrammetry is a technique of using photographs to generate 3D models or maps of objects and landscapes. This technique involves capturing multiple images of an object or a scene from different angles and using software to combine them into a 3D model. The resulting 3D model can be used for a variety of applications, including virtual reality, robotics, and more.
