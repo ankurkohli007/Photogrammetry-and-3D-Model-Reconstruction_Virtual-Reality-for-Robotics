@@ -223,7 +223,7 @@ We can check that all inputs are aligned and see that the positions of 48 camera
 </p>
 
 <p align="center">
-    <em>Alignment Veport</em>
+    <em>Alignment Report</em>
 </p>
 
 Lastly, a visual check of the point cloud is done. If everything is fine, we can proceed to the next step, the **reconstruction**. We keep the default parameters, except for the **“Image downscale”** factor, which is set to 2.
