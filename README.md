@@ -188,9 +188,11 @@ The photos are first sorted to eliminate images of bad quality (blurry, out of f
 
 Now that all the testbench is clear, let us dive into the 3D photogrammetry processing details through a workflow with Reality Capture.
 
-**Option A: Reality Capture**
+**Option: Reality Capture**
 
-The choice toward Reality Capture is pretty straightforward: you can do everything for free… As long as nothing is exported. So, nothing better than showing State-of-the-Art Professional Software.
+The choice toward Reality Capture is pretty straightforward: we can do everything for free. As long as nothing is exported. So, nothing better than showing State-of-the-Art Professional Software. But for this project we used licensed of a Reality Capture which was provided by our [Prof. Gianni Viardo Vercelli](https://rubrica.unige.it/personale/VUZCWVtr) & [Prof. Saverio Iacono](https://rubrica.unige.it/personale/U0tGXV1h).
+
+You can directly download Reality capture with this [provided link](https://www.capturingreality.com/).
 
 
 
