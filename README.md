@@ -164,6 +164,8 @@ The ultimate goal of the project is to create a seamless integration between the
 
 Through this project, the potential of photogrammetry and 3D model reconstruction in the context of virtual reality is harnessed to advance the field of robotics and pave the way for more sophisticated and immersive robotic applications in diverse industries.
 
+#### Reality Capture Steps
+
 * Firstly, we will go through the ***data acquisition*** set-up and the ***data processing*** steps, showing the workflow with a paying option (Reality Capture) and open-source software (Meshroom).
 
 **Step1:** **Data Acquisition:** The necessary equipment is easy to get by. Only a camera is needed (your smartphone works), and a tripod can be used if more stability and control are needed, but it is possible to work without it. The camera used is a Canon EOS 50D with a Canon Ultrasonic lens. The photos are saved in JPG format with a size of 4752x3168 pixels. Before starting the acquisition, we take a few photos to determine what settings should be used. In our experiments, we set the camera parameters as follow:
@@ -248,6 +250,56 @@ The last step is to texture the mesh. To do this, we keep the default parameters
     <em>Texture Menu</em>
 </p>
 
+In less than an hour (including the acquisition and processing time), we managed to obtain a 3D model of the object that is complete and with high fidelity to the physical object. The maximal reprojection error was set to be lower than 2 pixels, and we obtained a mean error of 0.46 pixels. Certain areas of the model have a better texture than others. In this case, since we have the object at hand and an acquisition setup ready, texture problems can easily be solved by taking complimentary photos of the parts missing information. This shows that 3D Photogrammetry with Reality Capture can be very efficient and relatively easy to work with without being an expert. We kept the default parameters and got a satisfying result. Obviously, for more extensive or complex projects, it is essential to understand and adapt the settings of each task to get optimal results. And that is what we will check in the second chapter. 
+
+#### Unreal Engine Steps
+
+In Unreal Engine, we created drone and navigate the drone in the same platform. Also, the recontruction model we obtained from the Reality Capture we imported in the Unreal Engine for the navigation of the dron.
+
+Creating a drone in Unreal Engine using Blueprints involves several steps. Here's a detailed breakdown of the process:
+
+* **Set up the Project:**
+<ul>
+<li>Launch Unreal Engine and create a new Blueprint project.</li>
+<li>Choose a project template or start with a blank project.</li>
+<li>Specify the project settings, including project name and directory.</li>
+  
+Import Drone Assets:
+
+Find or create 3D models for the drone's body, rotors, and any other components.
+Import the models into Unreal Engine by using the "Import" option in the Content Browser.
+Ensure the models are properly scaled and positioned for later use.
+Create the Drone Blueprint:
+
+Open the Blueprint Editor by double-clicking on the Content Browser or right-clicking and selecting "Create Blueprint Class."
+Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.
+In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.
+Design the Drone's Behavior:
+
+Use the Construction Script to set up the initial positioning and attachment of the drone components.
+In the Event Graph, add nodes and script the desired behavior for the drone.
+Use input events (e.g., keyboard or gamepad inputs) to control the drone's movement, such as changing its location, rotation, or velocity.
+Implement logic for drone actions like taking off, landing, hovering, and rotating.
+Add collision detection and response to avoid obstacles or trigger specific events.
+Add Drone Physics:
+
+Enable physics simulation for the drone by enabling the "Simulate Physics" option in the Details panel.
+Configure the drone's collision properties, such as collision channels, collision responses, and physical materials.
+Adjust the drone's mass, drag, and other physical parameters to mimic realistic flight dynamics.
+Use constraints or physics joints to connect the drone's components, such as the rotors to the body.
+Implement Camera and View:
+
+Add a camera component to the drone Blueprint to simulate the drone's perspective.
+Configure the camera's position, rotation, field of view, and any other desired settings.
+Set up camera controls to allow the player to switch between different camera views or perspectives.
+Test and Refine:
+
+Compile and save the drone Blueprint.
+Place an instance of the drone Blueprint in the game world or level.
+Launch the game or simulation to test the drone's behavior and controls.
+Iterate on the design, making adjustments and refinements as needed.
+Test the drone in different scenarios and environments to ensure its functionality and performance.
+Remember that this is a general outline of the process, and specific implementation details may vary based on your project requirements and the level of complexity you wish to achieve. The Blueprint system in Unreal Engine offers flexibility, allowing you to customize the drone's behavior and interactions according to your specific needs.
 
 ## Reference Links ###
 
