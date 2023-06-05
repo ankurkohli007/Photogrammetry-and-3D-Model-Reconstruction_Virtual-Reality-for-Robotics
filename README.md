@@ -164,8 +164,7 @@ Through this project, the potential of photogrammetry and 3D model reconstructio
 
 * Firstly, we will go through the ***data acquisition*** set-up and the ***data processing*** steps, showing the workflow with a paying option (Reality Capture) and open-source software (Meshroom).
       <ul> 
-      <li>**Data Acquisition:** The necessary equipment is easy to get by. Only a camera is needed (your smartphone works), and a tripod can be used if more stability and control are needed, but it is possible to work without it. The camera used is a Canon EOS 50D with a Canon Ultrasonic lens. The photos are saved in JPG format with a size of 4752*3168 pixels. Before starting the acquisition, we take a few photos to determine what settings should be used. In our experiments, we set the camera parameters as follow</li>
-            
+      <li>**Data Acquisition:** The necessary equipment is easy to get by. Only a camera is needed (your smartphone works), and a tripod can be used if more stability and control are needed, but it is possible to work without it. The camera used is a Canon EOS 50D with a Canon Ultrasonic lens. The photos are saved in JPG format with a size of 4752*3168 pixels. Before starting the acquisition, we take a few photos to determine what settings should be used. In our experiments, we set the camera parameters as follow</li>          
       </ul>
 
 ## Reference Links ###
