@@ -226,6 +226,9 @@ We can check that all inputs are aligned and see that the positions of 48 camera
     <em>Alignment Veport</em>
 </p>
 
+Lastly, a visual check of the point cloud is done. If everything is fine, we can proceed to the next step, the **reconstruction**. We keep the default parameters, except for the **“Image downscale”** factor, which is set to 2.
+
+The **reconstruction** is started by clicking on the “Normal detail reconstruction” icon in the “Reconstruction” tab. This step takes only five minutes, resulting in a mesh of around 1 million triangular facets. It is a lot compared to the number of countries on earth (195 in 2023), but very tiny compared to what we usually work with. With the “Advanced” **selection** tool, we select the marginal and large triangles, then filter the selection. We also adjusted the reconstruction box to eliminate the parts that belong to the furniture on which the object was placed (“Box” selection tool)
 
 ## Reference Links ###
 
