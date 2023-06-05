@@ -51,7 +51,7 @@ Additionally, photogrammetry can be used to create 3D models of existing equipme
 Overall, photogrammetry and 3D model reconstruction have a lot of potential for virtual reality and robotics applications. As the technology continues to improve, we can expect to see more and more innovative uses for these techniques in the field of robotics.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/18271856fb9a75cddfa5aba2fc39f3c2780c6ded/How%20to%20turn%203D%20images%20into%203D%20Assets%20with%20a%20simple%20workflow.png">
+  <img width="700" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/18271856fb9a75cddfa5aba2fc39f3c2780c6ded/How%20to%20turn%203D%20images%20into%203D%20Assets%20with%20a%20simple%20workflow.png">
 </p>
 
 <p align="center">
