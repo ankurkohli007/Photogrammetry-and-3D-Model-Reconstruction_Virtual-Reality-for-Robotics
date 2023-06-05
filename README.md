@@ -58,6 +58,8 @@ Overall, photogrammetry and 3D model reconstruction have a lot of potential for 
     <em>How to turn 3D images into 3D Assets with a simple workflow</em>
 </p>
 
+*Note:* Source of above picture is from https://towardsdatascience.com/the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4
+
 ### Reference Links ###
 
 1. Learn about https://www.capturingreality.com/realitycapture with tutorials in https://dev.epicgames.com/community/learning?application=capturing_reality  and News
