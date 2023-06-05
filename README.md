@@ -64,7 +64,39 @@ Overall, photogrammetry and 3D model reconstruction have a lot of potential for 
 
 **3D Data Processing:** 3D data processing refers to the process of using computer software to analyze and manipulate 3D data captured by a reality capture device, such as a laser scanner or photogrammetry camera. This can include tasks such as cleaning and filtering the data, aligning and merging multiple scans or images, and creating a 3D model or point cloud of the captured environment. The resulting 3D data can be used for a variety of purposes, including building and construction, asset management, heritage preservation, and more.
 
-### Reference Links ###
+## State of Art
+
+Photogrammetry is a technique for creating three-dimensional models and maps from two-dimensional images. It involves taking a series of photographs from different angles and using specialized software such as Capture Reality and Unreal Engine to process the images and generate a 3D model or map.
+
+One of the key challenges in photogrammetry is accurately aligning the images, which is known as image registration. This can be difficult due to factors such as variations in lighting, camera position, and image distortion. To address these challenges, researchers have developed techniques such as feature-based alignment
+and structure-from-motion.
+
+Another important aspect of photogrammetry is the creation of accurate and detailed 3D models. This can be achieved through the use of techniques such as multi-view stereo, which involves comparing multiple images of the same scene to generate a 3D point cloud. Other techniques, such as lidar and structured light, can also be
+used to create high-resolution 3D models.
+
+Recent advances in machine learning have also led to the development of neural network-based methods for photogrammetry. These methods can learn to align images and create 3D models from large datasets, and have the potential to significantly improve the accuracy and speed of photogrammetry.
+
+Overall, photogrammetry and 3D model reconstruction are active areas of research with numerous practical applications, including mapping, architectural documentation, and heritage preservation.
+
+Also, the state of the art in photogrammetry and 3D model reconstruction in terms of virtual reality (VR) for robotics has seen significant progress. Here are some key advancements in the field:
+
+Real-Time Reconstruction: Real-time reconstruction techniques have been developed to generate 3D models in real-time or near real-time, enabling immediate integration with VR environments for robotics. These techniques leverage parallel processing, efficient algorithms, and optimized data structures to achieve fast reconstruction speeds, facilitating real-time interactions between robots and the virtual environment.
+
+Sensor Fusion and Calibration: Integration of photogrammetry with other sensors, such as depth sensors or inertial measurement units (IMUs), allows for sensor fusion and calibration. This integration improves the accuracy of 3D reconstructions by combining visual data with depth or motion information, enabling more precise localization and object tracking in VR for robotics.
+
+Dynamic Scene Handling: Advanced algorithms have been developed to handle dynamic scenes in VR for robotics. These algorithms can detect and track moving objects, handle changing lighting conditions, and accurately update the 3D models in real-time. This capability is essential for maintaining the accuracy and realism of the virtual environment and ensuring seamless interactions between robots and dynamic virtual objects.
+
+Multi-Modal Data Integration: Integration of multiple data modalities, such as RGB images, depth maps, and point cloud data, enhances the fidelity of 3D model reconstructions. By combining data from different sensors, algorithms can leverage the strengths of each modality to improve accuracy, handle occlusions, and capture fine details in the virtual environment for robotics.
+
+Interactive User Interfaces: User interfaces and tools have been developed to facilitate user interaction and manipulation within the VR environment for robotics. These interfaces allow users to directly interact with virtual objects, perform object manipulation tasks, and provide haptic feedback, enhancing the immersive experience and enabling intuitive control of robotic systems in VR scenarios.
+
+Deep Learning and AI Techniques: Deep learning and AI techniques have been applied to various aspects of photogrammetry and 3D model reconstruction in VR for robotics. Convolutional neural networks (CNNs) and generative models have been utilized for feature extraction, object recognition, and scene understanding, improving the efficiency and accuracy of reconstruction algorithms.
+
+Cloud-Based Solutions: Cloud-based photogrammetry services have emerged, offering scalable and on-demand computational resources for 3D model reconstruction in VR for robotics. These services allow users to upload their data to the cloud, where the reconstruction process is performed, enabling faster processing, large-scale reconstructions, and accessibility for users with limited computational resources.
+
+It's important to note that the field of photogrammetry and 3D model reconstruction in VR for robotics is rapidly evolving. Ongoing research continues to push the boundaries of accuracy, real-time performance, and integration capabilities, with the aim of providing more realistic and interactive VR environments for robotics applications.
+
+## Reference Links ###
 
 1. Learn about https://www.capturingreality.com/realitycapture with tutorials in https://dev.epicgames.com/community/learning?application=capturing_reality  and News
 2. Check also the community https://dev.epicgames.com/community/?application=capturing_reality
