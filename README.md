@@ -184,7 +184,7 @@ Finally, we remove the camera from the tripod and take a vertical photo of the c
 
 **Step2:** **Photogrammetry Processing:**
 
-The photos are first sorted to eliminate images of bad quality (blurry, out of frame, wrong exposition) that would only disturb the next steps. Approx. 1000 pictures we captured. 
+The photos are first sorted to eliminate images of bad quality (blurry, out of frame, wrong exposition) that would only disturb the next steps. 
 
 Now that all the testbench is clear, let us dive into the 3D photogrammetry processing details through a workflow with Reality Capture.
 
@@ -194,7 +194,15 @@ The choice toward Reality Capture is pretty straightforward: we can do everythin
 
 You can directly download Reality capture with this [provided link](https://www.capturingreality.com/).
 
+The first step is to create a new project and import our approx 1000 images. This is done by drag-and-drop or clicking on the “Inputs” icon as shown in figure below:
 
+<p align="center">
+  <img width="400" height="300" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/43f386f33c8d2eaa6a5d85c29acde85ba614a69f/Data%20Import.png">
+</p>
+
+<p align="center">
+    <em>Data Import</em>
+</p>
 
 ## Reference Links ###
 
