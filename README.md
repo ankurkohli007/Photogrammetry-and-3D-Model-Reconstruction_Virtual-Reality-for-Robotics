@@ -100,7 +100,9 @@ It's important to note that the field of photogrammetry and 3D model reconstruct
 
 There are enormous tools used to accomplish the task such as Reality Capture, and Unreal Engine.
 
-### **Reality Capture:** [Reality Capture](https://www.capturingreality.com/realitycapture) is a leading software tool used in the field of photogrammetry and 3D model reconstruction. It offers advanced capabilities for capturing and processing images to create highly detailed and accurate 3D models of real-world objects and scenes. Here are some key features and functionalities of Reality Capture:
+### Reality Capture:
+
+[Reality Capture](https://www.capturingreality.com/realitycapture) is a leading software tool used in the field of photogrammetry and 3D model reconstruction. It offers advanced capabilities for capturing and processing images to create highly detailed and accurate 3D models of real-world objects and scenes. Here are some key features and functionalities of Reality Capture:
 
 1. **Image-based Reconstruction:** Reality Capture uses a collection of images taken from different viewpoints to reconstruct 3D models. It employs advanced algorithms to align and stitch these images together, extracting geometric and textural information to create a 3D representation of the scene.
 
@@ -122,7 +124,9 @@ There are enormous tools used to accomplish the task such as Reality Capture, an
 
 Overall, Reality Capture is a powerful and versatile tool for photogrammetry and 3D model reconstruction. Its advanced capabilities, automation features, and scalability make it a popular choice among professionals in industries such as architecture, archaeology, gaming, visual effects, and robotics.
 
-### **Unreal Engine:** Unreal Engine is a popular and powerful real-time 3D engine and development platform created by Epic Games. It provides a comprehensive suite of tools and features for creating interactive and immersive experiences across various platforms, including video games, virtual reality (VR), augmented reality (AR), architectural visualization, and more. Here are some key aspects and features of Unreal Engine:
+### Unreal Engine
+
+[Unreal Engine](https://www.unrealengine.com/en-US) is a popular and powerful real-time 3D engine and development platform created by Epic Games. It provides a comprehensive suite of tools and features for creating interactive and immersive experiences across various platforms, including video games, virtual reality (VR), augmented reality (AR), architectural visualization, and more. Here are some key aspects and features of Unreal Engine:
 
 1. **Real-time Rendering:** Unreal Engine offers advanced real-time rendering capabilities, allowing developers to create stunning and realistic visuals. It supports high-quality materials, lighting, shadows, and post-processing effects to achieve lifelike graphics.
 
