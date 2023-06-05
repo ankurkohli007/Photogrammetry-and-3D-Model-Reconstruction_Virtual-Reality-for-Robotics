@@ -60,6 +60,10 @@ Overall, photogrammetry and 3D model reconstruction have a lot of potential for 
 
 *Note:* Source of above picture is from [The Ultimate Guide to 3D Reconstruction with Photogrammetry](https://towardsdatascience.com/the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4)
 
+**3D Data Acquisition:** 3D data acquisition refers to the process of capturing information about the threedimensional shape, surface, and/or appearance of an object or scene using specialized equipment or techniques. This can be done using a variety of methods, such as structured light, laser scanning, photogrammetry, and computer vision, among others. The captured data can then be used for a variety of purposes, such as computer graphics, scientific visualization, measurement, and inspection.
+
+**3D Data Processing:** 3D data processing refers to the process of using computer software to analyze and manipulate 3D data captured by a reality capture device, such as a laser scanner or photogrammetry camera. This can include tasks such as cleaning and filtering the data, aligning and merging multiple scans or images, and creating a 3D model or point cloud of the captured environment. The resulting 3D data can be used for a variety of purposes, including building and construction, asset management, heritage preservation, and more.
+
 ### Reference Links ###
 
 1. Learn about https://www.capturingreality.com/realitycapture with tutorials in https://dev.epicgames.com/community/learning?application=capturing_reality  and News
