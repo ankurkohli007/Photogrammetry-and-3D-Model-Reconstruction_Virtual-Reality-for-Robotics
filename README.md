@@ -240,6 +240,15 @@ The **reconstruction** is started by clicking on the “Normal detail reconstruc
 
 The last step is to texture the mesh. To do this, we keep the default parameters and click on the “Texture” button in the “Reconstruction” tab. By default, a downscale factor of 2 is used for texturing.
 
+<p align="center">
+  <img width="400" height="200" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/f2e81219d08eefe29e613f4ed7f53468f1920cce/Texture%20Menu.png">
+</p>
+
+<p align="center">
+    <em>Texture Menu</em>
+</p>
+
+
 ## Reference Links ###
 
 1. Learn about https://www.capturingreality.com/realitycapture with tutorials in https://dev.epicgames.com/community/learning?application=capturing_reality  and News
