@@ -221,7 +221,7 @@ Given the low number of inputs, the alignment is done in only 30 seconds. After 
 We can check that all inputs are aligned and see that the positions of 48 cameras out of 48 are estimated. We also check the **alignment report**. This report provides the alignment duration, the number of aligned inputs, the point count, and the mean and maximal reprojection error in pixels. It is also possible to retrieve the alignment settings that were used.
 
 <p align="center">
-  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/e0e6708b13f18ac00ba846f569960e05f38340b9/Alignment%20report.png">
+  <img width="600" height="500" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/e0e6708b13f18ac00ba846f569960e05f38340b9/Alignment%20report.png">
 </p>
 
 <p align="center">
