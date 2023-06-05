@@ -162,6 +162,12 @@ The ultimate goal of the project is to create a seamless integration between the
 
 Through this project, the potential of photogrammetry and 3D model reconstruction in the context of virtual reality is harnessed to advance the field of robotics and pave the way for more sophisticated and immersive robotic applications in diverse industries.
 
+* Firstly, we will go through the ***data acquisition*** set-up and the ***data processing*** steps, showing the workflow with a paying option (Reality Capture) and open-source software (Meshroom).
+
+      <ul> 
+      <li>**Data Acquisition**</li>
+      </ul>
+
 ## Reference Links ###
 
 1. Learn about https://www.capturingreality.com/realitycapture with tutorials in https://dev.epicgames.com/community/learning?application=capturing_reality  and News
