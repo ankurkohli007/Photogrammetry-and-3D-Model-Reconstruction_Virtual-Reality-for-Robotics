@@ -100,7 +100,7 @@ It's important to note that the field of photogrammetry and 3D model reconstruct
 
 There are enormous tools used to accomplish the task such as Reality Capture, and Unreal Engine.
 
-* **Reality Capture:** [Reality Capture](https://www.capturingreality.com/realitycapture) is a leading software tool used in the field of photogrammetry and 3D model reconstruction. It offers advanced capabilities for capturing and processing images to create highly detailed and accurate 3D models of real-world objects and scenes. Here are some key features and functionalities of Reality Capture:
+### **Reality Capture:** [Reality Capture](https://www.capturingreality.com/realitycapture) is a leading software tool used in the field of photogrammetry and 3D model reconstruction. It offers advanced capabilities for capturing and processing images to create highly detailed and accurate 3D models of real-world objects and scenes. Here are some key features and functionalities of Reality Capture:
 
 1. **Image-based Reconstruction:** Reality Capture uses a collection of images taken from different viewpoints to reconstruct 3D models. It employs advanced algorithms to align and stitch these images together, extracting geometric and textural information to create a 3D representation of the scene.
 
@@ -122,7 +122,7 @@ There are enormous tools used to accomplish the task such as Reality Capture, an
 
 Overall, Reality Capture is a powerful and versatile tool for photogrammetry and 3D model reconstruction. Its advanced capabilities, automation features, and scalability make it a popular choice among professionals in industries such as architecture, archaeology, gaming, visual effects, and robotics.
 
-* **Unreal Engine:** Unreal Engine is a popular and powerful real-time 3D engine and development platform created by Epic Games. It provides a comprehensive suite of tools and features for creating interactive and immersive experiences across various platforms, including video games, virtual reality (VR), augmented reality (AR), architectural visualization, and more. Here are some key aspects and features of Unreal Engine:
+### **Unreal Engine:** Unreal Engine is a popular and powerful real-time 3D engine and development platform created by Epic Games. It provides a comprehensive suite of tools and features for creating interactive and immersive experiences across various platforms, including video games, virtual reality (VR), augmented reality (AR), architectural visualization, and more. Here are some key aspects and features of Unreal Engine:
 
 1. **Real-time Rendering:** Unreal Engine offers advanced real-time rendering capabilities, allowing developers to create stunning and realistic visuals. It supports high-quality materials, lighting, shadows, and post-processing effects to achieve lifelike graphics.
 
@@ -144,6 +144,19 @@ Overall, Reality Capture is a powerful and versatile tool for photogrammetry and
 
 Unreal Engine continues to evolve and introduce new features with regular updates, empowering developers to create cutting-edge and immersive experiences across multiple industries.
 
+## Description 
+
+The project of Photogrammetry and 3D Model Reconstruction in terms of Virtual Reality for Robotics aims to leverage the power of photogrammetry and 3D model reconstruction techniques in the context of virtual reality (VR) to enhance robotics applications. The project involves capturing images of the real-world environment using cameras or other imaging devices and using photogrammetry algorithms to reconstruct a detailed and accurate 3D model of the scene.
+
+The 3D model, along with the captured images, is then integrated into a virtual reality environment, creating a realistic and immersive virtual representation of the physical space. This virtual environment serves as a simulation platform where robotic systems can be tested, trained, and interacted with.
+
+The project focuses on developing advanced techniques to handle the challenges specific to robotics applications, such as real-time reconstruction, dynamic scene handling, and accurate object tracking. It explores the integration of multiple sensors, such as RGB cameras, depth sensors, and inertial measurement units (IMUs), to improve the accuracy and reliability of the 3D reconstructions.
+
+In addition, the project aims to develop interactive user interfaces and control mechanisms within the virtual reality environment, enabling users to manipulate virtual objects, control robotic systems, and receive haptic feedback. The integration of robotics frameworks, such as robot simulators or control systems, with the virtual environment is also a key aspect of the project.
+
+The ultimate goal of the project is to create a seamless integration between the physical and virtual worlds, allowing robotic systems to perceive and interact with the virtual environment in a realistic and intuitive manner. This integration opens up possibilities for various robotics applications, including robot training, task planning, autonomous navigation, and human-robot interaction.
+
+Through this project, the potential of photogrammetry and 3D model reconstruction in the context of virtual reality is harnessed to advance the field of robotics and pave the way for more sophisticated and immersive robotic applications in diverse industries.
 
 ## Reference Links ###
 
