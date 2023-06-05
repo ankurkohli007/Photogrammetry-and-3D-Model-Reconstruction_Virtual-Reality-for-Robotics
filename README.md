@@ -163,11 +163,18 @@ The ultimate goal of the project is to create a seamless integration between the
 Through this project, the potential of photogrammetry and 3D model reconstruction in the context of virtual reality is harnessed to advance the field of robotics and pave the way for more sophisticated and immersive robotic applications in diverse industries.
 
 * Firstly, we will go through the ***data acquisition*** set-up and the ***data processing*** steps, showing the workflow with a paying option (Reality Capture) and open-source software (Meshroom).
-      <ul> 
-      <li>**Data Acquisition:** The necessary equipment is easy to get by. Only a camera is needed (your smartphone works), and a tripod can be used if more stability and control are needed, but it is possible to work without it. The camera used is a Canon EOS 50D with a Canon Ultrasonic lens. The photos are saved in JPG format with a size of 4752*3168 pixels. Before starting the acquisition, we take a few photos to determine what settings should be used. In our experiments, we set the camera parameters as follow:</li> 
-  
-            1. **Focal length:** A fixed focal length of 28 mm, giving a good balance between distance to the subject and workable area;
-      </ul>
+
+**Step1:** **Data Acquisition:** The necessary equipment is easy to get by. Only a camera is needed (your smartphone works), and a tripod can be used if more stability and control are needed, but it is possible to work without it. The camera used is a Canon EOS 50D with a Canon Ultrasonic lens. The photos are saved in JPG format with a size of 4752x3168 pixels. Before starting the acquisition, we take a few photos to determine what settings should be used. In our experiments, we set the camera parameters as follow:
+
+* Focal length: A fixed focal length of 28 mm, giving a good balance between distance to the subject and workable area;
+* ISO: 400, which is a good value to start with, but if your scene appears too dark, you can push this value up to 1600 (at your own risks 😁);
+*  Diaphragm opening: F/3.5, which allows getting enough light in at the cost of a limited depth of field. In our case, as we focus only on a tiny object, we are good here.
+*  Shutter speed: 125 ms (1/8 s), which our tripod allows thanks to more stability. Without tripod, below 1/200s is super tricky;
+*  White balance: 4000 K. This adapts to our scene’s ambient lighting.
+ 
+The above parameters remain the same throughout the acquisition process.
+
+
 
 ## Reference Links ###
 
