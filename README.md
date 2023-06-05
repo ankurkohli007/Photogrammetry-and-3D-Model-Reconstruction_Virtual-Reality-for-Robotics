@@ -40,21 +40,7 @@ The integration of Reality Capture with other technologies used in robotics, suc
 
 Overall, the utilization of Reality Capture technology provides an effective solution to the challenges faced in photogrammetry and 3D model reconstruction for VR in robotics. With its real-time reconstruction capabilities, handling of complex scenes, scalability, and integration with other technologies, Reality Capture enhances the accuracy, realism, and usability of the virtual environment for robotics applications, opening up new possibilities for advanced and efficient robotic tasks in virtual reality settings.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+## Introduction
 
 Photogrammetry is a technique of using photographs to generate 3D models or maps of objects and landscapes. This technique involves capturing multiple images of an object or a scene from different angles and using software to combine them into a 3D model. The resulting 3D model can be used for a variety of applications, including virtual reality, robotics, and more.
 
@@ -63,6 +49,14 @@ One of the most exciting applications of photogrammetry is in virtual reality fo
 Additionally, photogrammetry can be used to create 3D models of existing equipment or environments, which can be used to design and test new robotics systems. For example, if a company is designing a new robot to operate in a factory environment, they can use photogrammetry to create a 3D model of the factory, which can be used to simulate the robot's movements and test its effectiveness before it is actually built and deployed.
 
 Overall, photogrammetry and 3D model reconstruction have a lot of potential for virtual reality and robotics applications. As the technology continues to improve, we can expect to see more and more innovative uses for these techniques in the field of robotics.
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/18271856fb9a75cddfa5aba2fc39f3c2780c6ded/How%20to%20turn%203D%20images%20into%203D%20Assets%20with%20a%20simple%20workflow.png">
+</p>
+
+<p align="center">
+    <em>How to turn 3D images into 3D Assets with a simple workflow</em>
+</p>
 
 ### Reference Links ###
 
