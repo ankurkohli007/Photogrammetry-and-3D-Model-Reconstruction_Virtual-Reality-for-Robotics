@@ -272,36 +272,46 @@ Creating a drone in Unreal Engine using Blueprints involves several steps. Here'
   <li>Ensure the models are properly scaled and positioned for later use.</li>
   </ul>
   
-Create the Drone Blueprint:
+* **Create the Drone Blueprint:**
+  <ul>
+  <li>Open the Blueprint Editor by double-clicking on the Content Browser or right-clicking and selecting "Create Blueprint Class."</li>
+  <li>Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.</li>
+  <li>In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.</li>
+  </ul>
 
-Open the Blueprint Editor by double-clicking on the Content Browser or right-clicking and selecting "Create Blueprint Class."
-Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.
-In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.
-Design the Drone's Behavior:
+* **Design the Drone's Behavior:**
+  <ul>
+  <li>Use the Construction Script to set up the initial positioning and attachment of the drone components.</li>
+  <li>In the Event Graph, add nodes and script the desired behavior for the drone.</li>
+  <li>Use input events (e.g., keyboard or gamepad inputs) to control the drone's movement, such as changing its location, rotation, or velocity.</li>
+  <li>Implement logic for drone actions like taking off, landing, hovering, and rotating.</li>
+  <li>Add collision detection and response to avoid obstacles or trigger specific events.</li>
+  </ul>
 
-Use the Construction Script to set up the initial positioning and attachment of the drone components.
-In the Event Graph, add nodes and script the desired behavior for the drone.
-Use input events (e.g., keyboard or gamepad inputs) to control the drone's movement, such as changing its location, rotation, or velocity.
-Implement logic for drone actions like taking off, landing, hovering, and rotating.
-Add collision detection and response to avoid obstacles or trigger specific events.
-Add Drone Physics:
+* **Add Drone Physics:**
+  <ul>
+  <li>Enable physics simulation for the drone by enabling the "Simulate Physics" option in the Details panel.</li>
+  <li>Configure the drone's collision properties, such as collision channels, collision responses, and physical materials.</li>
+  <li>Adjust the drone's mass, drag, and other physical parameters to mimic realistic flight dynamics.</li>
+  <li>Use constraints or physics joints to connect the drone's components, such as the rotors to the body.</li>
+  </ul>
 
-Enable physics simulation for the drone by enabling the "Simulate Physics" option in the Details panel.
-Configure the drone's collision properties, such as collision channels, collision responses, and physical materials.
-Adjust the drone's mass, drag, and other physical parameters to mimic realistic flight dynamics.
-Use constraints or physics joints to connect the drone's components, such as the rotors to the body.
-Implement Camera and View:
+* **Implement Camera and View:**
+  <ul>
+  <li>Add a camera component to the drone Blueprint to simulate the drone's perspective.</li>
+  <li>Configure the camera's position, rotation, field of view, and any other desired settings.</li>
+  <li>Set up camera controls to allow the player to switch between different camera views or perspectives.</li>
+  </ul>
+  
+* **Test and Refine:**
+  <ul>
+  <li>Compile and save the drone Blueprint.</li>
+  <li>Place an instance of the drone Blueprint in the game world or level.</li>
+  <li>Launch the game or simulation to test the drone's behavior and controls.</li>
+  <li>Iterate on the design, making adjustments and refinements as needed.</li>
+  <li>Test the drone in different scenarios and environments to ensure its functionality and performance.</li>
+  </ul>
 
-Add a camera component to the drone Blueprint to simulate the drone's perspective.
-Configure the camera's position, rotation, field of view, and any other desired settings.
-Set up camera controls to allow the player to switch between different camera views or perspectives.
-Test and Refine:
-
-Compile and save the drone Blueprint.
-Place an instance of the drone Blueprint in the game world or level.
-Launch the game or simulation to test the drone's behavior and controls.
-Iterate on the design, making adjustments and refinements as needed.
-Test the drone in different scenarios and environments to ensure its functionality and performance.
 Remember that this is a general outline of the process, and specific implementation details may vary based on your project requirements and the level of complexity you wish to achieve. The Blueprint system in Unreal Engine offers flexibility, allowing you to customize the drone's behavior and interactions according to your specific needs.
 
 ## Reference Links ###
