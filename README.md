@@ -390,6 +390,16 @@ Importing models from Reality Capture to Unreal Engine involves several steps. H
   <li>Set up LODs (Level of Detail) if needed, to optimize performance by displaying simplified versions of the model at different distances.</li>
   </ul>
 
+Below is the figure shows the model is imported from Reality Capture to Unreal Engine.
+
+<p align="center">
+  <img width="1200" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/104e0a47b668652109b255a5c808cb1a0df6ca5a/Photos/Screenshot%202023-06-05%20213751.png">
+</p>
+
+<p align="center">
+    <em>Imported model from Reality Capture to Unreal Engine</em>
+</p>
+
 #### Unreal Engine Steps
 
 In Unreal Engine, we created drone and navigate the drone in the same platform. Also, the recontruction model we obtained from the Reality Capture we imported in the Unreal Engine for the navigation of the dron.
