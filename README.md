@@ -336,6 +336,8 @@ https://youtu.be/h1yNI3pkoww
 
 https://youtu.be/RiCiFfsPdjQ
 
+https://youtu.be/3dDWKMFSGl0
+
 ## Conclusion
 
 In conclusion, the project on Photogrammetry and 3D Model Reconstruction in terms of Virtual Reality for Robotics has demonstrated the potential of combining these technologies to advance the field of robotics. By leveraging photogrammetry techniques to create accurate 3D models and integrating them into a virtual reality environment, several significant outcomes have been achieved.
