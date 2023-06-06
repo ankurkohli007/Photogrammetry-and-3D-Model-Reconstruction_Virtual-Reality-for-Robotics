@@ -563,6 +563,7 @@ Include additional details like rocks and streams, and incorporate interactive e
     <em>Forest Environment Angle2</em>
 </p>
 
+In conclusion, creating a forest environment in Unreal Engine involves setting up the project, designing the terrain, placing vegetation, applying realistic materials, setting up lighting and atmospheric effects, adding sound effects, incorporating small details, and optimizing the scene for performance. By following these steps, you can create a visually stunning and immersive forest environment in Unreal Engine that transports users into a realistic and captivating virtual forest setting.
 
 ## Result
 
@@ -579,6 +580,16 @@ The result of the project on Photogrammetry and 3D Model Reconstruction in terms
 5. **Robust System Development and Evaluation:** The virtual reality environment resulting from the project serves as a valuable platform for the development and evaluation of robotic systems. Researchers and developers can test and refine algorithms, control strategies, and sensor configurations within the virtual environment, prior to real-world implementation. This helps in identifying and addressing potential issues or limitations before deployment.
 
 6. **Collaborative Robotics Research:** The virtual reality environment allows for collaborative research and development in the field of robotics. Multiple users can connect to the same virtual space simultaneously, enabling collaboration, knowledge sharing, and joint experimentation. This fosters interdisciplinary collaboration and accelerates innovation in robotics.
+
+Figure below shows the **content browser** folder which is obtained at end of our project.
+
+<p align="center">
+  <img width="500" height="250" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/3fedd549bae02f335244a22029045f4c18c166c4/Photos/Screenshot%202023-06-05%20213915.png">
+</p>
+
+<p align="center">
+    <em>Content Browser Folder</em>
+</p>
 
 Overall, the project's result combines the power of photogrammetry and 3D model reconstruction with virtual reality technology to enhance robotics applications. The outcome is a realistic and immersive virtual environment that facilitates training, simulation, visualization, and interaction with robotic systems. It opens up new possibilities for research, development, and deployment of robotics technologies in various domains, including manufacturing, healthcare, exploration, and more.
 
