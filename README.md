@@ -282,6 +282,36 @@ After aforementioned steps, we build a model and this model is about **151 milli
     <em>151 millions triangles on our model</em>
 </p>
 
+So, finally we simplified the model and build up to **5 millions triangles** as shown in figures below.
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/7e72632a68902d6369ab7da11298a57ded434d9c/Photos/Screenshot%202023-06-06%20033809.png">
+</p>
+
+<p align="center">
+    <em>Scale Down Triangles: Step1</em>
+</p>
+
+Figure above shows Scale Down Triangles: Step1 and figure below shows Scale Down Triangles: Step2.
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/7e72632a68902d6369ab7da11298a57ded434d9c/Photos/Screenshot%202023-06-06%20033821.png">
+</p>
+
+<p align="center">
+    <em>Scale Down Triangles: Step2</em>
+</p>
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/7e72632a68902d6369ab7da11298a57ded434d9c/Photos/Screenshot%202023-06-06%20033922.png">
+</p>
+
+<p align="center">
+    <em>Scale Down Triangles: Step3</em>
+</p>
+
+Figure above shows the final step for scale down triangles in a model.
+
 The last step is to texture the mesh. To do this, we keep the default parameters and click on the “Texture” button in the “Reconstruction” tab. By default, a downscale factor of 2 is used for texturing.
 
 <p align="center">
