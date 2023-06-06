@@ -219,7 +219,7 @@ Then, we start the **alignment** with the first icon in the “Alignment” tab.
 Furthermore, we imported our approx 1000 images and change the **alignment settings** before starting the process. We set the “Number of features detected per image” and “Number of features detected per mpx” (megapixel) parameters to 100k and set the “Image overlap” to “High”.
 
 <p align="center">
-  <img width="400" height="300" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/ec9c281e57c85cbc3993ff484895ef2bcc8da5b3/Alignment%20settings%20that%20work%20well%20in%20complex%20cases%20with%20good-quality%20datasets.png">
+  <img width="400" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/ec9c281e57c85cbc3993ff484895ef2bcc8da5b3/Alignment%20settings%20that%20work%20well%20in%20complex%20cases%20with%20good-quality%20datasets.png">
 </p>
 
 <p align="center">
