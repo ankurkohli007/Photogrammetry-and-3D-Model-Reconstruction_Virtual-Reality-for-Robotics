@@ -345,27 +345,49 @@ Importing models from Reality Capture to Unreal Engine involves several steps. H
   <li>Specify the desired export settings, including scale, vertex color preservation, and material information.</li>
   </ul>
   
-* **Import Drone Assets:**
+* **Prepare Unreal Engine Project:**
   <ul>
-  <li>Find or create 3D models for the drone's body, rotors, and any other components.</li>
-  <li>Import the models into Unreal Engine by using the "Import" option in the Content Browser.</li>
-  <li>Ensure the models are properly scaled and positioned for later use.</li>
+  <li>Launch Unreal Engine and open your project.</li>
+  <li>Create a new folder within the Content Browser to store your imported models.</li>
   </ul>
   
-* **Create the Drone Blueprint:**
+* **Import the Model into Unreal Engine:**
   <ul>
-  <li>Open the Blueprint Editor by double-clicking on the Content Browser or right-clicking and selecting "Create Blueprint Class."</li>
-  <li>Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.</li>
-  <li>In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.</li>
+  <li>In the Content Browser, navigate to the folder where you want to import the model."</li>
+  <li>Right-click and select "Import" to open the import dialog.</li>
+  <li>Browse for the exported model file and select it.</li>
+  <li>Configure the import settings based on your requirements, such as scale, materials, and LOD (Level of Detail) options.</li>
+  <li>Click "Import" to begin the import process.</li>
   </ul>
 
-* **Design the Drone's Behavior:**
+* **Configure Material and Texture:**
   <ul>
-  <li>Use the Construction Script to set up the initial positioning and attachment of the drone components.</li>
-  <li>In the Event Graph, add nodes and script the desired behavior for the drone.</li>
-  <li>Use input events (e.g., keyboard or gamepad inputs) to control the drone's movement, such as changing its location, rotation, or velocity.</li>
-  <li>Implement logic for drone actions like taking off, landing, hovering, and rotating.</li>
-  <li>Add collision detection and response to avoid obstacles or trigger specific events.</li>
+  <li>After the import is complete, locate the imported model in the Content Browser.</li>
+  <li>Double-click on the model to open the Static Mesh Editor.</li>
+  <li>In the Static Mesh Editor, you can assign materials and textures to the model.</li>
+  <li>Create or import the materials and textures you want to use, and then apply them to the corresponding surfaces of the model.</li>
+  </ul>
+  
+* **Place the Model in the Scene:**
+  <ul>
+  <li>Drag and drop the imported model from the Content Browser into the desired location in the scene or level.</li>
+  <li>Adjust its position, rotation, and scale as needed.</li>
+  </ul>
+  
+* **Adjust Collision and LODs:**
+  <ul>
+  <li>In the Static Mesh Editor, you can define the collision properties of the model.</li>
+  <li>Add or modify collision primitives to accurately represent the shape of the model for collision detection.</li>
+  <li>In the Static Mesh Editor, you can assign materials and textures to the model.</li>
+  <li>Set up LODs (Level of Detail) if needed, to optimize performance by displaying simplified versions of the model at different distances.</li>
+  </ul>
+  
+* **Test and Optimize:**
+  <ul>
+  <li>Launch the game or simulation within Unreal Engine to test the imported model in the virtual environment."</li>
+  <li>Check for any issues, such as incorrect scaling, misplaced textures, or performance concerns.</li>
+  <li>Optimize the model if necessary by simplifying geometry, reducing texture resolution, or adjusting LOD settings to ensure smooth performance.</li>
+  <li>Set up LODs (Level of Detail) if needed, to optimize performance by displaying simplified versions of the model at different distances.</li>
   </ul>
 
 #### Unreal Engine Steps
