@@ -360,8 +360,8 @@ Overall, the project's conclusion highlights the potential of combining photogra
 <br>
 [2] RealityCapture - [Tutorial](https://www.youtube.com/watch?v=WrCOhes1Zgg).<br>
 <br>
-[3] Unreal Engine - Tutorial. https://www.youtube.com/watch?v=TASHWpdQFwc&list=
-RDCMUCwt9gg3t19wDNY1TVpm97sw&index=2.<br>
+[3] Unreal Engine - [Tutorial](https://www.youtube.com/watch?v=TASHWpdQFwc&list=
+RDCMUCwt9gg3t19wDNY1TVpm97sw&index=2).<br>
 <br>
 [4] Unreal Engine | The most powerful real-time 3D creation tool — unrealengine.com. https://www.
 unrealengine.com/en-US.<br>
