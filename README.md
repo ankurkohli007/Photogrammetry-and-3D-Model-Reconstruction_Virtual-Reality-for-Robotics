@@ -216,6 +216,16 @@ Then, we start the **alignment** with the first icon in the “Alignment” tab.
     <em>Alignment</em>
 </p>
 
+Furthermore, we imported our approx 1000 images and change the **alignment settings** before starting the process. We set the “Number of features detected per image” and “Number of features detected per mpx” (megapixel) parameters to 100k and set the “Image overlap” to “High”.
+
+<p align="center">
+  <img width="400" height="300" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/ec9c281e57c85cbc3993ff484895ef2bcc8da5b3/Alignment%20settings%20that%20work%20well%20in%20complex%20cases%20with%20good-quality%20datasets.png">
+</p>
+
+<p align="center">
+    <em>Alignment Settings</em>
+</p>
+
 Given the low number of inputs, the alignment is done in only 30 seconds. After this step, we have a **component** that consists of a point cloud and the estimated positions of the cameras. 
 
 We can check that all inputs are aligned and see that the positions of 48 cameras out of 48 are estimated. We also check the **alignment report**. This report provides the alignment duration, the number of aligned inputs, the point count, and the mean and maximal reprojection error in pixels. It is also possible to retrieve the alignment settings that were used.
