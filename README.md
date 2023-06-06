@@ -393,7 +393,7 @@ Importing models from Reality Capture to Unreal Engine involves several steps. H
 Below is the figure shows the model is imported from Reality Capture to Unreal Engine.
 
 <p align="center">
-  <img width="1200" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/104e0a47b668652109b255a5c808cb1a0df6ca5a/Photos/Screenshot%202023-06-05%20213751.png">
+  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/104e0a47b668652109b255a5c808cb1a0df6ca5a/Photos/Screenshot%202023-06-05%20213751.png">
 </p>
 
 <p align="center">
