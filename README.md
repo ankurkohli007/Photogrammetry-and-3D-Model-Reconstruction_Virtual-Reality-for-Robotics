@@ -358,21 +358,29 @@ Overall, the project's conclusion highlights the potential of combining photogra
 
 [1] RealityCapture - Photogrammetry Software — capturingreality.com. https://www.capturingreality.
 com/realitycapture.<br>
+<br>
 [2] RealityCapture - Tutorial. https://www.youtube.com/watch?v=WrCOhes1Zgg.<br>
+<br>
 [3] Unreal Engine - Tutorial. https://www.youtube.com/watch?v=TASHWpdQFwc&list=
 RDCMUCwt9gg3t19wDNY1TVpm97sw&index=2.<br>
+<br>
 [4] Unreal Engine | The most powerful real-time 3D creation tool — unrealengine.com. https://www.
 unrealengine.com/en-US.<br>
+<br>
 [5] Ph.D. Florent Poux. The Ultimate Guide to 3D Reconstruction with Photogrammetry — towardsdatascience.com. https://towardsdatascience.com/
 the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4. [Accessed 08-
 Jan-2023].<br>
+<br>
 [6] David Novotny Georgia Gkioxari, Shubham Tulsiani. Pushing state-of-the-art in
 3D content understanding — ai.facebook.com. https://ai.facebook.com/blog/
 pushing-state-of-the-art-in-3d-content-understanding/, February 18, 2019.<br>
+<br>
 [7] Georgios Kordelas, Juan Agapito, Jesús Vegas, and Petros Daras. State-of-the-art algorithms for complete
 3d model reconstruction. 09 2010.<br>
+<br>
 [8] Malgorzata Kujawinska, Robert Sitnik, Michal Pawlowski, Piotr Garbat, and Marek Wegiel. Threedimensional data acquisition and processing for virtual reality applications. Proceedings of SPIE - The
 International Society for Optical Engineering, 4778, 06 2002.<br>
+<br>
 [9] Michael Zollh¨ofer, Patrick Stotko, Andreas G¨orlitz, Christian Theobalt, Matthias Nießner, Reinhard Klein,
 and Andreas Kolb. State of the art on 3d reconstruction with rgb-d cameras. Computer Graphics Forum,
 37(2):625–652, 2018.<br>
