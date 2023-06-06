@@ -541,6 +541,29 @@ Moreover, we setup of environment blueprint as shown in figure below.
 
 Remember that this is a general outline of the process, and specific implementation details may vary based on your project requirements and the level of complexity you wish to achieve. The Blueprint system in Unreal Engine offers flexibility, allowing you to customize the drone's behavior and interactions according to your specific needs.
 
+#### Creation of Forest Environment in Unreal Engine
+
+To create a forest environment in Unreal Engine, you'll start by setting up the project and creating the terrain using the engine's terrain tools. Then, you'll place vegetation such as trees and bushes using foliage painting tools. Apply realistic materials to the terrain and foliage assets to add detail and variation. Set up appropriate lighting and atmospheric effects to enhance the visual appeal. Add sound effects to create an immersive auditory experience. Figure below shows the forest environment in unreal engine.
+
+<p align="center">
+  <img width="800" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/3848084962faca5b6791b6beb86a02b945caedb5/Photos/Screenshot%202023-06-06%20035514.png">
+</p>
+
+<p align="center">
+    <em>Forest Environment Angle1</em>
+</p>
+
+Include additional details like rocks and streams, and incorporate interactive elements for engagement. Test and optimize the scene to ensure optimal performance. By following these steps, you can quickly create a captivating and realistic forest environment in Unreal Engine. Figure below shows the forest environment view from different angel in unreal engine.
+
+<p align="center">
+  <img width="800" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/3848084962faca5b6791b6beb86a02b945caedb5/Photos/Screenshot%202023-06-06%20035545.png">
+</p>
+
+<p align="center">
+    <em>Forest Environment Angle2</em>
+</p>
+
+
 ## Result
 
 The result of the project on Photogrammetry and 3D Model Reconstruction in terms of Virtual Reality for Robotics is a highly immersive and realistic virtual environment that integrates photogrammetry-based 3D models with virtual reality technology. This integration brings several benefits and outcomes to the field of robotics:
