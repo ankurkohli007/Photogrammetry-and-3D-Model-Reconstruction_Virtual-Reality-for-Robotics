@@ -591,6 +591,36 @@ Figure below shows the **content browser** folder which is obtained at end of ou
     <em>Content Browser Folder</em>
 </p>
 
+Figure below depicts when the game starts in Unreal Engine.
+
+<p align="center">
+  <img width="1200" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/3fedd549bae02f335244a22029045f4c18c166c4/Photos/Screenshot%202023-06-06%20035759.png">
+</p>
+
+<p align="center">
+    <em>Game Start</em>
+</p>
+
+Figure below highlights with the drone's camera view which shows our model which we imported from reality Capture.
+
+<p align="center">
+  <img width="1200" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/3fedd549bae02f335244a22029045f4c18c166c4/Photos/Screenshot%202023-06-06%20094421.png">
+</p>
+
+<p align="center">
+    <em>Drone: Camera View of 3D Model from Reality Capture</em>
+</p>
+
+Figure below explains about the drone camera which shows the environment.
+
+<p align="center">
+  <img width="1200" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/3fedd549bae02f335244a22029045f4c18c166c4/Photos/Screenshot%202023-06-06%20094509.png">
+</p>
+
+<p align="center">
+    <em>Drone Camera: Environment View</em> 
+</p>
+
 Overall, the project's result combines the power of photogrammetry and 3D model reconstruction with virtual reality technology to enhance robotics applications. The outcome is a realistic and immersive virtual environment that facilitates training, simulation, visualization, and interaction with robotic systems. It opens up new possibilities for research, development, and deployment of robotics technologies in various domains, including manufacturing, healthcare, exploration, and more.
 
 Below are the video links of our final project:
