@@ -334,6 +334,40 @@ The last step is to texture the mesh. To do this, we keep the default parameters
 
 In less than an hour (including the acquisition and processing time), we managed to obtain a 3D model of the object that is complete and with high fidelity to the physical object. The maximal reprojection error was set to be lower than 2 pixels, and we obtained a mean error of 0.46 pixels. Certain areas of the model have a better texture than others. In this case, since we have the object at hand and an acquisition setup ready, texture problems can easily be solved by taking complimentary photos of the parts missing information. This shows that 3D Photogrammetry with Reality Capture can be very efficient and relatively easy to work with without being an expert. We kept the default parameters and got a satisfying result. Obviously, for more extensive or complex projects, it is essential to understand and adapt the settings of each task to get optimal results. And that is what we will check in the second chapter. 
 
+#### Importing Model from Reality Capture to Unreal Engine
+
+Importing models from Reality Capture to Unreal Engine involves several steps. Here's a general overview of the process:
+
+* **Model Export from Reality Capture:**
+  <ul>
+  <li>In Reality Capture, ensure that your 3D model is complete and processed.</li>
+  <li>Export the model in a compatible file format. Unreal Engine supports various formats such as FBX, OBJ, and Alembic.</li>
+  <li>Specify the desired export settings, including scale, vertex color preservation, and material information.</li>
+  </ul>
+  
+* **Import Drone Assets:**
+  <ul>
+  <li>Find or create 3D models for the drone's body, rotors, and any other components.</li>
+  <li>Import the models into Unreal Engine by using the "Import" option in the Content Browser.</li>
+  <li>Ensure the models are properly scaled and positioned for later use.</li>
+  </ul>
+  
+* **Create the Drone Blueprint:**
+  <ul>
+  <li>Open the Blueprint Editor by double-clicking on the Content Browser or right-clicking and selecting "Create Blueprint Class."</li>
+  <li>Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.</li>
+  <li>In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.</li>
+  </ul>
+
+* **Design the Drone's Behavior:**
+  <ul>
+  <li>Use the Construction Script to set up the initial positioning and attachment of the drone components.</li>
+  <li>In the Event Graph, add nodes and script the desired behavior for the drone.</li>
+  <li>Use input events (e.g., keyboard or gamepad inputs) to control the drone's movement, such as changing its location, rotation, or velocity.</li>
+  <li>Implement logic for drone actions like taking off, landing, hovering, and rotating.</li>
+  <li>Add collision detection and response to avoid obstacles or trigger specific events.</li>
+  </ul>
+
 #### Unreal Engine Steps
 
 In Unreal Engine, we created drone and navigate the drone in the same platform. Also, the recontruction model we obtained from the Reality Capture we imported in the Unreal Engine for the navigation of the dron.
