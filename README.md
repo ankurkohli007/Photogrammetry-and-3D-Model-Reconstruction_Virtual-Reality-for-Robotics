@@ -332,6 +332,8 @@ The result of the project on Photogrammetry and 3D Model Reconstruction in terms
 
 Overall, the project's result combines the power of photogrammetry and 3D model reconstruction with virtual reality technology to enhance robotics applications. The outcome is a realistic and immersive virtual environment that facilitates training, simulation, visualization, and interaction with robotic systems. It opens up new possibilities for research, development, and deployment of robotics technologies in various domains, including manufacturing, healthcare, exploration, and more.
 
+https://youtu.be/h1yNI3pkoww
+
 ## Conclusion
 
 In conclusion, the project on Photogrammetry and 3D Model Reconstruction in terms of Virtual Reality for Robotics has demonstrated the potential of combining these technologies to advance the field of robotics. By leveraging photogrammetry techniques to create accurate 3D models and integrating them into a virtual reality environment, several significant outcomes have been achieved.
