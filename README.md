@@ -532,11 +532,11 @@ At the end, we get distance meters as described in figure below.
 Moreover, we setup of environment blueprint as shown in figure below.
 
 <p align="center">
-  <img width="800" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/4238a66749352251c377cb1ff08ba92a1161bac4/Photos/Screenshot%202023-06-05%20213652.png">
+  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/4238a66749352251c377cb1ff08ba92a1161bac4/Photos/Screenshot%202023-06-05%20213652.png">
 </p>
 
 <p align="center">
-    <em>Drone: Get Distance Meters 0 (pure, const)</em>
+    <em>Environment setup Blueprint</em>
 </p>
 
 Remember that this is a general outline of the process, and specific implementation details may vary based on your project requirements and the level of complexity you wish to achieve. The Blueprint system in Unreal Engine offers flexibility, allowing you to customize the drone's behavior and interactions according to your specific needs.
