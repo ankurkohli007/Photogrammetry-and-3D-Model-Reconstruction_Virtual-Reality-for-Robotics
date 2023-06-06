@@ -367,9 +367,8 @@ Overall, the project's conclusion highlights the potential of combining photogra
 [5] Ph.D. Florent Poux. [The Ultimate Guide to 3D Reconstruction with Photogrammetry](https://towardsdatascience.com/the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4) [Accessed 08-
 Jan-2023].<br>
 <br>
-[6] David Novotny Georgia Gkioxari, Shubham Tulsiani. Pushing state-of-the-art in
-3D content understanding — ai.facebook.com. https://ai.facebook.com/blog/
-pushing-state-of-the-art-in-3d-content-understanding/, February 18, 2019.<br>
+[6] David Novotny Georgia Gkioxari, Shubham Tulsiani. [Pushing state-of-the-art in
+3D content understanding](https://ai.facebook.com/blog/pushing-state-of-the-art-in-3d-content-understanding/), February 18, 2019.<br>
 <br>
 [7] Georgios Kordelas, Juan Agapito, Jesús Vegas, and Petros Daras. State-of-the-art algorithms for complete
 3d model reconstruction. 09 2010.<br>
