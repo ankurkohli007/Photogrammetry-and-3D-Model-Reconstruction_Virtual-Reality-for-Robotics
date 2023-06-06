@@ -356,8 +356,7 @@ Overall, the project's conclusion highlights the potential of combining photogra
 
 ## Reference Links ###
 
-[1] RealityCapture - Photogrammetry Software — [Reality Capture](https://www.capturingreality.
-com/realitycapture).<br>
+[1] RealityCapture - Photogrammetry Software — [Reality Capture](https://www.capturingreality.com/realitycapture).<br>
 <br>
 [2] RealityCapture - Tutorial. https://www.youtube.com/watch?v=WrCOhes1Zgg.<br>
 <br>
