@@ -362,11 +362,9 @@ Overall, the project's conclusion highlights the potential of combining photogra
 <br>
 [3] Unreal Engine - [Tutorial](https://www.youtube.com/watch?v=TASHWpdQFwc&list=RDCMUCwt9gg3t19wDNY1TVpm97sw&index=3).<br>
 <br>
-[4] Unreal Engine | The most powerful real-time 3D creation tool — unrealengine.com. https://www.
-unrealengine.com/en-US.<br>
+[4] [Unreal Engine](https://www.unrealengine.com/en-US) | The most powerful real-time 3D creation tool.<br>
 <br>
-[5] Ph.D. Florent Poux. The Ultimate Guide to 3D Reconstruction with Photogrammetry — towardsdatascience.com. https://towardsdatascience.com/
-the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4. [Accessed 08-
+[5] Ph.D. Florent Poux. [The Ultimate Guide to 3D Reconstruction with Photogrammetry](https://towardsdatascience.com/the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4) [Accessed 08-
 Jan-2023].<br>
 <br>
 [6] David Novotny Georgia Gkioxari, Shubham Tulsiani. Pushing state-of-the-art in
