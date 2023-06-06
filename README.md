@@ -428,12 +428,24 @@ Creating a drone in Unreal Engine using Blueprints involves several steps. Here'
     <em>Drone Blueprint</em>
 </p>
 
+Figure above shows drone blueprint.
+
 * **Create the Drone Blueprint:**
   <ul>
   <li>Open the Blueprint Editor by double-clicking on the Content Browser or right-clicking and selecting "Create Blueprint Class."</li>
   <li>Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.</li>
   <li>In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.</li>
   </ul>
+  
+Figure below shows the drone skeleton.
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/8325f11759122e24198e0432452966cff0afaf1c/Photos/Screenshot%202023-06-05%20213319.png">
+</p>
+
+<p align="center">
+    <em>Drone skeleton</em>
+</p>
 
 * **Design the Drone's Behavior:**
   <ul>
