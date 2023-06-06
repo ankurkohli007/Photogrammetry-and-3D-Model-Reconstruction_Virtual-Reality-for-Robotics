@@ -260,6 +260,16 @@ The **reconstruction** is started by clicking on the “Normal detail reconstruc
     <em>Reconstruction button (Left), Filter Selection tool (Middle) and the possible filtering options (right)</em>
 </p>
 
+Now, we proceed with the smoothing step. The **smoothing** is done on the surfaces and not the edges, 100 iterations of the algorithm are performed, and the weight is set to 0.5. Smoothing is finished in 10 min.
+
+<p align="center">
+  <img width="400" height="200" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/99f4d14259030467cd046ee85c33a67af6580c57/SmoothingToolSettings.png">
+</p>
+
+<p align="center">
+    <em>Smoothing Tool Settings</em>
+</p>
+
 The last step is to texture the mesh. To do this, we keep the default parameters and click on the “Texture” button in the “Reconstruction” tab. By default, a downscale factor of 2 is used for texturing.
 
 <p align="center">
