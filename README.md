@@ -312,6 +312,16 @@ Figure above shows Scale Down Triangles: Step1 and figure below shows Scale Down
 
 Figure above shows the final step for scale down triangles in a model.
 
+Another tool that may be used at this point is the **Simplify Tool**. It is possible to simplify the model to reach a fixed number of triangles (type: “Absolute”) or to retain a certain percentage of triangles.
+
+<p align="center">
+  <img width="600" height="400" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/702f9176abc68a97f7b84bb8556435f81c9c4a59/Simplfy.png">
+</p>
+
+<p align="center">
+    <em>Simplify Tool Settings</em>
+</p>
+
 The last step is to texture the mesh. To do this, we keep the default parameters and click on the “Texture” button in the “Reconstruction” tab. By default, a downscale factor of 2 is used for texturing.
 
 <p align="center">
