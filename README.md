@@ -356,54 +356,23 @@ Overall, the project's conclusion highlights the potential of combining photogra
 
 ## Reference Links ###
 
-1. Learn about https://www.capturingreality.com/realitycapture with tutorials in https://dev.epicgames.com/community/learning?application=capturing_reality  and News
-2. Check also the community https://dev.epicgames.com/community/?application=capturing_reality
-3. Also the News https://www.capturingreality.com/News
-4. Follow this report from Medium.com https://towardsdatascience.com/the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4
-5. Unreal Engine | The most powerful real-time 3D creation tool — unrealengine.com. https://www.unrealengine.com/en-US.
-6. Ph.D. Florent Poux. The Ultimate Guide to 3D Reconstruction with Pho- togrammetry — towardsdatascience.com. https://towardsdatascience.com/ the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4. [Accessed 08- Jan-2023].
-7. David Novotny Georgia Gkioxari, Shubham Tulsiani. Pushing state-of-the-art in 3D content understanding — ai.facebook.com. https://ai.facebook.com/blog/ pushing-state-of-the-art-in-3d-content-understanding/, February 18, 2019.
-8. https://github.com/luigifreda/ROSIntegration
-9. file:///Users/ankurkohli007/Downloads/6.2020-1343.pdf
-10. https://par.nsf.gov/servlets/purl/10297241
-11. https://www.youtube.com/watch?v=zDUaazmSukM
-12. https://www.youtube.com/watch?v=fuB4OWxOhME
-13. https://www.youtube.com/watch?v=pcI08fHL9Nw
-14. https://dev.epicgames.com/community/learning/courses/x6D/capturing-reality-drone-mapping-guide/3Y1J/capturing-reality-drone-mapping-guide-introduction
-15. https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/BP_HowTo/WorkingWithMaps/
-16. https://www.unrealengine.com/marketplace/en-US/product/3d-map-navigation-in-vr-course
-17. https://embeddedcomputing.com/application/industrial/automation-robotics/drone-photogrammetry-how-can-you-turn-drone-images-into-3d-mapsmodels
-18. https://forums.unrealengine.com/t/how-to-make-a-3d-map-menu/501819
-19. https://www.youtube.com/watch?v=9lGupuc90oM
-20. https://www.youtube.com/watch?v=dmxrN7uUUhs
-21. https://github.com/Unity-Technologies/Robotics-Nav2-SLAM-Example
-22. https://resources.unity.com/automotive-transportation-manufacturing-content/unity-robotics-slam
-23. https://www.luigifreda.com/2019/09/22/rosintegration-for-ue-4-23/
-24. https://www.youtube.com/watch?v=n6RjVbh3Vgc
-25. https://www.kaggle.com/datasets/birdy654/environment-recognition-simulation-to-reality
-26. https://github.com/jordan-bird/Unity-Image-Dataset-Collector
-27. https://www.youtube.com/watch?v=CJG0U1VLp-s
-28. https://www.youtube.com/watch?v=y-77QBAy73E
-29. https://www.youtube.com/watch?v=XxQsIYUFGrQ
-30. https://educatorsinvr.com/2020/12/09/photogrammetry-examples-and-resources/
-31. https://educatorsinvr.com/2020/12/09/photogrammetry-examples-and-resources/
-32. https://www.researchgate.net/publication/327227913_PHOTOGRAMMETRIC_3D_MODELING_FOR_VIRTUAL_REALITY#fullTextFileContent
-
-<br>
-<br>
-https://www.skyebrowse.com/
-
-<br>
-<br>
-https://www.youtube.com/watch?v=WrCOhes1Zgg&feature=youtu.be&themeRefresh=1
-<br>
-<br>
-capturingreality.com/architecture<br>
-https://www.capturingreality.com/Showcase<br>
-https://www.capturingreality.com/interior-re-desing-with-realitycapture<br>
-https://overhead4d.com/index.html<br>
-<br>
-<br>
-<br>
-<br>
-
+[1] RealityCapture - Photogrammetry Software — capturingreality.com. https://www.capturingreality.
+com/realitycapture.
+[2] RealityCapture - Tutorial. https://www.youtube.com/watch?v=WrCOhes1Zgg.
+[3] Unreal Engine - Tutorial. https://www.youtube.com/watch?v=TASHWpdQFwc&list=
+RDCMUCwt9gg3t19wDNY1TVpm97sw&index=2.
+[4] Unreal Engine | The most powerful real-time 3D creation tool — unrealengine.com. https://www.
+unrealengine.com/en-US.
+[5] Ph.D. Florent Poux. The Ultimate Guide to 3D Reconstruction with Photogrammetry — towardsdatascience.com. https://towardsdatascience.com/
+the-ultimate-guide-to-3d-reconstruction-with-photogrammetry-56155516ddc4. [Accessed 08-
+Jan-2023].
+[6] David Novotny Georgia Gkioxari, Shubham Tulsiani. Pushing state-of-the-art in
+3D content understanding — ai.facebook.com. https://ai.facebook.com/blog/
+pushing-state-of-the-art-in-3d-content-understanding/, February 18, 2019.
+[7] Georgios Kordelas, Juan Agapito, Jesús Vegas, and Petros Daras. State-of-the-art algorithms for complete
+3d model reconstruction. 09 2010.
+[8] Malgorzata Kujawinska, Robert Sitnik, Michal Pawlowski, Piotr Garbat, and Marek Wegiel. Threedimensional data acquisition and processing for virtual reality applications. Proceedings of SPIE - The
+International Society for Optical Engineering, 4778, 06 2002.
+[9] Michael Zollh¨ofer, Patrick Stotko, Andreas G¨orlitz, Christian Theobalt, Matthias Nießner, Reinhard Klein,
+and Andreas Kolb. State of the art on 3d reconstruction with rgb-d cameras. Computer Graphics Forum,
+37(2):625–652, 2018.
