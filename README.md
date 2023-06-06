@@ -432,11 +432,7 @@ Figure above shows drone blueprint.
 
 * **Create the Drone Blueprint:**
   <ul>
-  <li>Open the Blueprint Editor by double-clicking on the Content Browser or right-clicking and selecting "Create Blueprint Class."</li>
-  <li>Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.</li>
-  <li>In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.</li>
-  </ul>
-  
+  <li>Find or create 3D models for the drone's body, rotors, and any other components.</li>
 Figure below shows the drone skeleton.
 
 <p align="center">
@@ -446,6 +442,10 @@ Figure below shows the drone skeleton.
 <p align="center">
     <em>Drone skeleton</em>
 </p>
+  <li>Open the Blueprint Editor by double-clicking on the Content Browser or right-clicking and selecting "Create Blueprint Class."</li>
+  <li>Choose the desired parent class for the drone. You can start with a Pawn or Character class, depending on your requirements.</li>
+  <li>In the Blueprint Editor, you will see the Construction Script, Event Graph, and other sections.</li>
+  </ul>
 
 * **Design the Drone's Behavior:**
   <ul>
