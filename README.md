@@ -272,14 +272,14 @@ Now, we proceed with the smoothing step. The **smoothing** is done on the surfac
 
 These parameters ensure efficient smoothing without losing much detail.
 
-After aforementioned steps, we build a model and this model is about **151 millions triangles** and this is maximum as shown in below.
+After aforementioned steps, we build a model and this model is about **141.5 millions triangles** and this is maximum as shown in below.
 
 <p align="center">
   <img width="1200" height="600" src="https://github.com/ankurkohli007/Photogrammetry-and-3D-Model-Reconstruction_Virtual-Reality-for-Robotics/blob/63625a089cad908351237429eb79ec999e81cf39/Photos/Screenshot%202023-06-06%20033704.png">
 </p>
 
 <p align="center">
-    <em>151 millions triangles on our model</em>
+    <em>141.5 millions triangles generated on our model</em>
 </p>
 
 So, finally we simplified the model and build up to **5 millions triangles** as shown in figures below.
